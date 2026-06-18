@@ -7,10 +7,7 @@ Biomedical Engineer | Medical Eletronics </h1>
 - <b>Embedded System</b>
   - [Accelerometer Signal Acquisition System](https://github.com/longrasdaniela/Accelerometer-Signal-Acquisition-System/blob/main/README.md)
 - <b>Analog IC Design</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Design and Characterization of a Comparator](https://github.com/longrasdaniela/Design-and-Characterization-of-a-Comparator/blob/main/README.md)
 
 <h2> 📲 Connect with me:</h2>
 
